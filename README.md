@@ -10,16 +10,7 @@
 </div>
 
 <!-- Divisor espacial -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🌠 Sobre mi órbita actual
-- 🎓 Cursando el 9no semestre de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Mérida.
-
-
-- 🎯 **Enfoque:** Desarrollo de Aplicaciones Móviles y Backend.
-
-
-- 📝 **Investigación:** Coautor del artículo "Sistema de monitoreo remoto del agua basado en TDS y turbidez".
 
 
 
